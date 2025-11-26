@@ -1,243 +1,269 @@
-<!-- ANIMATED HEADER WITH 3D EFFECT -->
+<!-- HERO SECTION WITH GRADIENT -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=300&section=header&text=MOHAMED%20ALI%20GHARBI&fontSize=50&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20AI%20Enthusiast%20%7C%20System%20Architect&descSize=20&descAlignY=55&animation=twinkling" />
-</div>
 
-<!-- TYPING ANIMATION -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Building+scalable+%26+elegant+solutions+%F0%9F%9A%80;React+%7C+Next.js+%7C+Node.js+%7C+FastAPI+%7C+React+Native;Passionate+about+AI+%26+Modern+Architecture" alt="Typing SVG" />
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="40" /> Hey, I'm Mohamed Ali Gharbi
+
+### Full-Stack Developer • Mobile Developer 
+
+<p>
+  <a href="https://my-portfolio-alpha-inky-28.vercel.app"><img src="https://img.shields.io/badge/🌐_Portfolio-4F46E5?style=for-the-badge&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/mohamed-ali-gharbi"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:mohamedali.gh15@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
-<!-- 3D CONTRIBUTION SNAKE -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/medali150/medali150/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/medali150/medali150/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/medali150/medali150/output/github-snake.svg" />
-</picture>
+```ascii
+┌─────────────────────────────────────────────────────────────┐
+│  Building scalable & elegant solutions with modern tech  🚀 │
+│  React • Next.js • Node.js • FastAPI • React Native        │
+└─────────────────────────────────────────────────────────────┘
+```
+
+</div>
 
 ---
 
-## 🌟 About Me
+<div align="center">
+
+## 🎯 About Me
+
+</div>
 
 ```typescript
-const mohamedAli = {
-    pronouns: "He" | "Him",
-    location: "Tunisia 🇹🇳",
-    role: "Full-Stack Developer",
-    code: ["TypeScript", "JavaScript", "Python", "Dart"],
-    technologies: {
-        frontend: {
-            js: ["React", "Next.js", "Vue.js"],
-            css: ["Tailwind CSS", "GSAP", "Framer Motion"]
-        },
-        backend: {
-            js: ["Node.js", "Express"],
-            python: ["FastAPI", "Django"]
-        },
-        mobile: ["React Native", "Flutter"],
-        databases: ["PostgreSQL", "MongoDB", "MySQL"],
-        devOps: ["Docker", "Kubernetes", "CI/CD"],
-        tools: ["Prisma ORM", "Git", "Figma"]
-    },
-    currentFocus: "Building scalable applications with AI integration",
-    funFact: "I debug with console.log and I'm proud of it 😄"
+const developer = {
+  name: "Mohamed Ali Gharbi",
+  location: "Tunisia 🇹🇳",
+  role: "Full-Stack Developer",
+  
+  expertise: {
+    frontend: ["React", "Next.js", "Vue.js", "TypeScript"],
+    backend: ["Node.js", "FastAPI", "Express"],
+    mobile: ["React Native", "Flutter"],
+    styling: ["Tailwind CSS", "GSAP", "Framer Motion"],
+    databases: ["PostgreSQL", "MongoDB", "MySQL"],
+    orm: ["Prisma"],
+    devops: ["Docker", "Kubernetes", "CI/CD"]
+  },
+  
+  currentFocus: [
+    "🎓 University Platform (Next.js + FastAPI + PostgreSQL)",
+    "🤖 AI-powered applications",
+    "☁️ Cloud architecture & microservices"
+  ],
+  
+  learning: ["DevOps", "Kubernetes", "System Design"],
+  
+  availableFor: "Freelance projects & collaborations"
 };
 ```
 
 <div align="center">
 
-### 🔗 Connect With Me
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-4F46E5?style=for-the-badge&logo=vercel&logoColor=white)](https://my-portfolio-alpha-inky-28.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamed-ali-gharbi)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamedali.gh15@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/medali150)
-
-</div>
-
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Arsenal
 
-<div align="center">
+<table>
+<tr>
+<td width="50%">
 
-### 💻 Languages & Frameworks
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
-### 🗄️ Databases & ORMs
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+### Mobile
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 
-### 🎨 Styling & Animation
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
-![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
+</td>
+<td width="50%">
 
-### ☁️ DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-</div>
+### Database & DevOps
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🚀 Featured Projects
 
-<div align="center">
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🎓 University Platform</h3>
-      <div align="center">  
-        <a href="https://github.com/medali150" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=medali150&repo=university-platform&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="University Platform" />
-        </a>
-        <br><br>
-        <p>
-          <strong>Next.js • FastAPI • PostgreSQL • Prisma</strong><br>
-          3 roles: Student, Teacher, Department Head<br>
-          JWT Auth • WebSockets • Real-time Chat
-        </p>
-      </div>
-    </td>
-    <td width="50%">
-      <h3 align="center">🏘️ ImmobilierApp</h3>
-      <div align="center">
-        <a href="https://github.com/medali150" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=medali150&repo=immobilier-app&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="ImmobilierApp" />
-        </a>
-        <br><br>
-        <p>
-          <strong>Next.js • Node.js • PostgreSQL • React Native</strong><br>
-          Real Estate Web & Mobile Application<br>
-          Property Management System
-        </p>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">📋 TaskMaster AI</h3>
-      <div align="center">
-        <a href="https://github.com/medali150" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=medali150&repo=taskmaster&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="TaskMaster" />
-        </a>
-        <br><br>
-        <p>
-          <strong>Next.js • PostgreSQL • Prisma • AI</strong><br>
-          AI-Enhanced Task Management<br>
-          Smart Productivity Insights
-        </p>
-      </div>
-    </td>
-    <td width="50%">
-      <h3 align="center">🤖 AI Chatbot</h3>
-      <div align="center">
-        <a href="https://github.com/medali150" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=medali150&repo=nextjs-ai-chatbot&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="AI Chatbot" />
-        </a>
-        <br><br>
-        <p>
-          <strong>Next.js • OpenAI API • TypeScript</strong><br>
-          Advanced AI Chatbot<br>
-          Smart Prompts & Context Awareness
-        </p>
-      </div>
-    </td>
-  </tr>
-</table>
-
 </div>
+
+### 🎓 University Platform
+> **Next.js • FastAPI • PostgreSQL • Prisma ORM**
+> 
+> Comprehensive university management system with 3 roles (Student, Teacher, Department Head)
+> - JWT Authentication & Authorization
+> - Real-time chat with WebSockets
+> - Course management & grade tracking
+> - Advanced dashboard analytics
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=medali150&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=C9D1D9&count_private=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=medali150&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" />
-</div>
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=medali150&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=medali150&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6366F1&line=6366F1&point=C9D1D9" />
-</div>
+### 🏘️ ImmobilierApp
+> **Next.js • Node.js • PostgreSQL • React Native**
+> 
+> Modern real estate platform (Web & Mobile)
+> - Property listing & search functionality
+> - Interactive map integration
+> - User authentication & favorites
+> - Cross-platform mobile app
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=medali150&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" />
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=medali150&bg_color=0D1117&color=6366F1&line=6366F1&point=C9D1D9&area=true&hide_border=true" width="100%" />
-</div>
+### 📋 TaskMaster - AI Enhanced
+> **Next.js • PostgreSQL • Prisma • AI Integration**
+> 
+> Intelligent task management application
+> - AI-powered productivity insights
+> - Smart task prioritization
+> - Analytics dashboard
+> - Collaboration features
 
 ---
 
-## 💡 Random Dev Quote
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</div>
+### 🤖 Next.js AI Chatbot
+> **Next.js • OpenAI API • TypeScript**
+> 
+> Advanced conversational AI interface
+> - Context-aware responses
+> - Custom prompt engineering
+> - Real-time streaming
+> - Modern UI/UX design
 
 ---
 
-## 🎯 Current Focus
+### 🍔 Food Ordering Platform
+> **Next.js • PostgreSQL • Prisma ORM**
+> 
+> Full-stack food delivery application
+> - Restaurant & menu management
+> - Shopping cart & checkout
+> - Order tracking system
+> - Admin dashboard
+
+---
+
+### 📰 Blog Platform (AI-Powered)
+> **Symfony • Twig • Tailwind CSS • AI**
+> 
+> Modern blogging platform with AI content generation
+> - Multi-language support
+> - SEO optimization
+> - AI article generation
+> - Responsive design
+
+---
+
+### ❓ Quiz Application
+> **FastAPI • PostgreSQL**
+> 
+> Complete quiz management system
+> - Dynamic question creation
+> - Real-time scoring
+> - Admin dashboard
+> - Performance analytics
+
+---
+
+### 🛒 E-Commerce Platform
+> **Next.js • MongoDB**
+> 
+> Modern online shopping experience
+> - Product catalog management
+> - Shopping cart functionality
+> - Payment integration
+> - Order management
+
+<div align="center">
+
+---
+
+## 💼 What I Do
+
+</div>
 
 ```python
-class CurrentGoals:
+class Services:
     def __init__(self):
-        self.learning = ["Kubernetes", "Microservices", "System Design"]
-        self.building = ["University Platform", "AI-Enhanced Apps"]
-        self.exploring = ["Cloud Architecture", "DevOps Best Practices"]
+        self.web_development = {
+            "frontend": ["React", "Next.js", "Vue.js"],
+            "backend": ["Node.js", "FastAPI", "Express"],
+            "fullstack": "End-to-end solutions"
+        }
+        
+        self.mobile_development = {
+            "platforms": ["iOS", "Android"],
+            "frameworks": ["React Native", "Flutter"],
+            "approach": "Cross-platform efficiency"
+        }
+        
+        self.specialties = [
+            "🎨 Modern UI/UX implementation",
+            "🔐 Authentication & Authorization",
+            "💾 Database design & optimization",
+            "🤖 AI integration & automation",
+            "☁️ Cloud deployment & DevOps"
+        ]
     
-    def next_milestone(self):
-        return "Building production-ready scalable systems 🚀"
+    def deliver(self):
+        return "Scalable, maintainable, production-ready code 🚀"
+```
+
+<div align="center">
+
+---
+
+
+
+## 💡 Dev Philosophy
+
+> *"Clean code is not written by following a set of rules. You know you are working on clean code when each routine you read turns out to be pretty much what you expected."* - Robert C. Martin
+
+---
+
+## 🌱 Currently
+
+```javascript
+const status = {
+  working_on: "University Platform with Next.js & FastAPI",
+  learning: ["Kubernetes", "Microservices Architecture", "System Design"],
+  reading: "Clean Architecture by Robert C. Martin",
+  collaboration: "Open to interesting projects and ideas 💡"
+};
 ```
 
 ---
 
-<div align="center">
-  
-### 💬 Ask Me About
+## 📫 Get In Touch
 
-`React` • `Next.js` • `Vue.js` • `Node.js` • `FastAPI` • `React Native` • `System Design` • `AI Integration`
-
-</div>
+<a href="https://my-portfolio-alpha-inky-28.vercel.app">
+  <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_My_Work-4F46E5?style=for-the-badge" />
+</a>
+<a href="linkedin.com/in/mohamed-ali-gharbi-166aaa335">
+  <img src="https://img.shields.io/badge/💼_LinkedIn-Let's_Connect-0077B5?style=for-the-badge" />
+</a>
+<a href="mailto:mohamedali.gh15@gmail.com">
+  <img src="https://img.shields.io/badge/📧_Email-Say_Hello-EA4335?style=for-the-badge" />
+</a>
 
 ---
 
-<div align="center">
+![Profile Views](https://komarev.com/ghpvc/?username=medali150&color=6366f1&style=flat-square&label=Profile+Views)
 
-### 📫 Let's Build Something Amazing Together!
-
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Now-4F46E5?style=for-the-badge)](https://my-portfolio-alpha-inky-28.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-0077B5?style=for-the-badge)](https://linkedin.com/in/mohamed-ali-gharbi)
-[![Email](https://img.shields.io/badge/📧_Email-Contact-D14836?style=for-the-badge)](mailto:mohamedali.gh15@gmail.com)
-
-![Profile Views](https://komarev.com/ghpvc/?username=medali150&color=6366f1&style=for-the-badge&label=PROFILE+VIEWS)
+**⭐️ From [medali150](https://github.com/medali150) | Let's build something amazing together!**
 
 </div>
-
-<!-- FOOTER WAVE -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=150&section=footer" width="100%" />
