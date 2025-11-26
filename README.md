@@ -60,7 +60,6 @@ const mohamedAli = {
   currentProjects: [
     "🎓 University Platform (Next.js + FastAPI)",
     "🤖 AI-Enhanced Applications",
-    "☁️ Cloud Architecture Solutions"
   ],
   
   learning: ["Kubernetes", "Microservices", "System Design"],
